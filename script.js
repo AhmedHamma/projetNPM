@@ -3,7 +3,7 @@ new Vue({
     data: {
         message: 'c\'est le premier test',
         message2: 'ok le deuxième test',
-        message3: 'le dernier test bg',
+        message3: 'le message test à changer bg',
         checked: true,
         show: true,
 
